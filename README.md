@@ -52,3 +52,5 @@ This project is inspired by
 -   [ChatGPT](https://github.com/acheong08/ChatGPT)
 -   [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)
 
+
+<img src="Screenshot 2023-01-29 131106.jpg" alt="UI" height="300" width="1000" />
